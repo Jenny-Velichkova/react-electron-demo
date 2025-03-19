@@ -1,0 +1,17 @@
+{
+  "name": "react-electron-demo",
+  "version": "1.0.0",
+  "description": "A demo project integrating React and Electron with file dialog and IPC.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "react-start": "cd src && npm start"
+  },
+  "keywords": ["react", "electron", "ipc", "demo"],
+  "author": "Jenny Velichkova",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.0"
+  },
+  "dependencies": {}
+}
