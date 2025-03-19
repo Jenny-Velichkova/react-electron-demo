@@ -1,4 +1,17 @@
-This is a demo project built to showcase React and Electron integration, including secure IPC (Inter-Process Communication) and file reading from the user's system using the native file dialog in Electron.
+# React + Electron File Dialog Demo
+
+_A modern demo showing how to integrate React with Electron, securely handle IPC, and access the file system via native dialogs._
+
+![React](https://img.shields.io/badge/Frontend-React-blue?style=flat-square)
+![Electron](https://img.shields.io/badge/Desktop-Electron-9cf?style=flat-square)
+![IPC](https://img.shields.io/badge/IPC-secure_contextBridge-green?style=flat-square)
+![Status](https://img.shields.io/badge/Project-Demo-lightgrey?style=flat-square)
+
+---
+
+This is a demo project built to showcase **React and Electron integration**, including **secure IPC (Inter-Process Communication)** and file reading from the user's system using the **native file dialog** in Electron.
+
+The project demonstrates a clean, modular architecture with a focus on best practices like **contextBridge** and **preload scripts**.
 
 The project demonstrates a clean, modular architecture with a focus on best practices like contextBridge and preload scripts.
 
