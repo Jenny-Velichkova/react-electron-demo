@@ -9,7 +9,7 @@ _A modern demo showing how to integrate React with Electron, securely handle IPC
 
 ---
 
-## ✨ Overview
+## Overview
 
 This is a demo project built to showcase **React and Electron integration**, including **secure IPC (Inter-Process Communication)** and file reading from the user's system using the **native file dialog** in Electron.
 
@@ -17,7 +17,7 @@ The project demonstrates a clean, modular architecture with a focus on best prac
 
 ---
 
-## 🖼️ Screenshot Preview
+##  Screenshot Preview
 
 ![App Preview](https://your-screenshot-url.com/demo-preview.png)  
 > _A simple interface where users can select a file and see its contents in real-time._
@@ -26,7 +26,7 @@ _(Tip: you can upload a screenshot in your repo, copy its URL and paste it above
 
 ---
 
-## 🚀 Features
+##  Features
 
 - React + Electron integration
 - Native file dialog (open file)
@@ -36,7 +36,7 @@ _(Tip: you can upload a screenshot in your repo, copy its URL and paste it above
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 react-electron-demo/
@@ -52,7 +52,7 @@ react-electron-demo/
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/Jenny-Velichkova/react-electron-demo.git
@@ -65,25 +65,23 @@ npm run start
 
 ---
 
-## 💬 About the Author
+##  About the Author
 
 Hi, I’m Jenny Velichkova – a frontend developer with over 10 years of experience working with clients across Canada, the USA, and Europe.
 
-🧠 I enjoy building intuitive UIs, explaining complex things simply, and creating demo projects that educate and impress.  
-💼 Visit my portfolio: [https://hyperweb.ca/our-website-portfolio/](https://hyperweb.ca/our-website-portfolio/)
+ I enjoy building intuitive UIs, explaining complex things simply, and creating demo projects that educate and impress.  
+ Visit my portfolio: [https://hyperweb.ca/our-website-portfolio/](https://hyperweb.ca/our-website-portfolio/)
 
 ---
 
-## 🌍 Let's Connect
+##  Let's Connect
 
-- 💻 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://hyperweb.ca/)
-- 📫 Email: your@email.com
+
 
 ---
 
-## ⭐ Want More Like This?
+##  Want More Like This?
 
-If you liked this project, feel free to ⭐ star it and share it with others!
+If you liked this project, feel free to  star it and share it with others!
 
 Need a custom Electron or React app? Let’s talk!
